@@ -23,6 +23,7 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
  
 <h1>Acknowledgements&nbsp;:</h1>
 Data: https://drive.google.com/drive/folders/1_yTzXmlGF6osaMtqP-rjoWVKujsFKWFc
+
 License: CC BY 4.0
 
 Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
